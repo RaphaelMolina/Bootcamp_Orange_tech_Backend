@@ -1,0 +1,49 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "edu.raphael.segundaSemana.AboutMe",
+            "projectName": "java-anatomia-classes_f40de8b4"
+        },
+        {
+            "type": "java",
+            "name": "Launch NovaClasse",
+            "request": "launch",
+            "mainClass": "edu.raphael.segundaSemana.NovaClasse",
+            "projectName": "java-anatomia-classes_f40de8b4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "edu.raphael.segundaSemana.Usuario",
+            "projectName": "java-anatomia-classes_f40de8b4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Metodos",
+            "request": "launch",
+            "mainClass": "edu.raphael.segundaSemana.Metodos",
+            "projectName": "java-anatomia-classes_f40de8b4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "edu.raphael.segundaSemana.Operadores",
+            "projectName": "java-anatomia-classes_f40de8b4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
